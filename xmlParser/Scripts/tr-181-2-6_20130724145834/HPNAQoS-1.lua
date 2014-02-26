@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.HPNA.Interface.1.QoS.)
+acs.GetParameterValues(Device.HPNA.Interface.1.QoS.FlowSpecNumberOfEntries)
+acs.GetParameterValues(Device.HPNA.Diagnostics.PerformanceMonitoring.Channels.Channel.1.)
+acs.GetParameterValues(Device.HPNA.Diagnostics.PerformanceMonitoring.Channels.Channel.1.FlowSpec)
+acs.execute()

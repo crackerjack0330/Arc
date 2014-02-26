@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.DeviceInfo.VendorLogFile.1.)
+acs.GetParameterValues(Device.DeviceInfo.VendorLogFile.1.Name)
+acs.GetParameterValues(Device.DeviceInfo.VendorLogFile.1.MaximumSize)
+acs.GetParameterValues(Device.DeviceInfo.VendorLogFile.1.Persistent)
+acs.execute()

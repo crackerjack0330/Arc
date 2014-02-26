@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.GatewayInfo.)
+acs.GetParameterValues(Device.GatewayInfo.ManufacturerOUI)
+acs.GetParameterValues(Device.GatewayInfo.ProductClass)
+acs.GetParameterValues(Device.GatewayInfo.SerialNumber)
+acs.execute()

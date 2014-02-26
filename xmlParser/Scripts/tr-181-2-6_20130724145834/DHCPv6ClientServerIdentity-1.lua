@@ -1,0 +1,8 @@
+acs.GetParameterValues(Device.DHCPv6.Client.1.ServerNumberOfEntries)
+acs.GetParameterValues(Device.DHCPv6.Client.1.Server.1.)
+acs.GetParameterValues(Device.DHCPv6.Client.1.Server.1.SourceAddress)
+acs.GetParameterValues(Device.DHCPv6.Client.1.Server.1.DUID)
+acs.GetParameterValues(Device.DHCPv6.Client.1.Server.1.InformationRefreshTime)
+acs.GetParameterValues(Device.DHCPv6.Client.1.ReceivedOption.1.)
+acs.GetParameterValues(Device.DHCPv6.Client.1.ReceivedOption.1.Server)
+acs.execute()

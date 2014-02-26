@@ -1,0 +1,11 @@
+====================================================
+This tool create a hash table and hash function for
+speeding up searching log entry. JasonWang 20120528
+====================================================
+1. Modify log_error_table.txt and 
+          log_event_table.txt to the newest
+2. Run gen.o to generate log_table.h
+3. Copy log_table.h into syslog directory
+4. Include it(It should already be done)
+
+p.s. It might take minutes for generating

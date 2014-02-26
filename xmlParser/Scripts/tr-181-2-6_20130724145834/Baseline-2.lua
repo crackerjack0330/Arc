@@ -1,0 +1,6 @@
+acs.GetParameterValues(Device.InterfaceStack.1.)
+acs.GetParameterValues(Device.InterfaceStack.1.HigherLayer)
+acs.GetParameterValues(Device.InterfaceStack.1.LowerLayer)
+acs.GetParameterValues(Device.DNS.)
+acs.GetParameterValues(Device.DNS.SupportedRecordTypes)
+acs.execute()

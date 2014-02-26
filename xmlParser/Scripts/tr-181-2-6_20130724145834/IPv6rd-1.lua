@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.IPv6rd.)
+acs.GetParameterValues(Device.IPv6rd.InterfaceSettingNumberOfEntries)
+acs.GetParameterValues(Device.IPv6rd.InterfaceSetting.1.)
+acs.GetParameterValues(Device.IPv6rd.InterfaceSetting.1.Status)
+acs.GetParameterValues(Device.IPv6rd.InterfaceSetting.1.TunnelInterface)
+acs.GetParameterValues(Device.IPv6rd.InterfaceSetting.1.TunneledInterface)
+acs.execute()

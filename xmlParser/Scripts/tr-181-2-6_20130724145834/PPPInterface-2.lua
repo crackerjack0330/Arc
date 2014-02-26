@@ -1,0 +1,6 @@
+acs.GetParameterValues(Device.PPP.)
+acs.GetParameterValues(Device.PPP.SupportedNCPs)
+acs.GetParameterValues(Device.PPP.Interface.1.IPv6CP.)
+acs.GetParameterValues(Device.PPP.Interface.1.IPv6CP.LocalInterfaceIdentifier)
+acs.GetParameterValues(Device.PPP.Interface.1.IPv6CP.RemoteInterfaceIdentifier)
+acs.execute()

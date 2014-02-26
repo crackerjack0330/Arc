@@ -1,0 +1,3 @@
+acs.GetParameterValues(Device.ManagementServer.UDPConnectionRequestAddress)
+acs.GetParameterValues(Device.ManagementServer.NATDetected)
+acs.execute()

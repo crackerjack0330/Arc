@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.DHCPv4.)
+acs.GetParameterValues(Device.DHCPv4.Server.)
+acs.GetParameterValues(Device.DHCPv4.Server.PoolNumberOfEntries)
+acs.GetParameterValues(Device.DHCPv4.Server.Pool.1.OptionNumberOfEntries)
+acs.execute()

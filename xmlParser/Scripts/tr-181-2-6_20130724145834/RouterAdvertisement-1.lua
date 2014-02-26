@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.RouterAdvertisement.)
+acs.GetParameterValues(Device.RouterAdvertisement.InterfaceSettingNumberOfEntries)
+acs.GetParameterValues(Device.RouterAdvertisement.InterfaceSetting.1.Status)
+acs.GetParameterValues(Device.RouterAdvertisement.InterfaceSetting.1.OptionNumberOfEntries)
+acs.execute()

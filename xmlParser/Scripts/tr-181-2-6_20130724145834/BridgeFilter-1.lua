@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.Bridging.)
+acs.GetParameterValues(Device.Bridging.MaxFilterEntries)
+acs.GetParameterValues(Device.Bridging.FilterNumberOfEntries)
+acs.GetParameterValues(Device.Bridging.Filter.1.Status)
+acs.execute()

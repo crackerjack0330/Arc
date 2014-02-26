@@ -1,0 +1,8 @@
+acs.GetParameterValues(Device.UPnP.Discovery.Device.1.)
+acs.GetParameterValues(Device.UPnP.Discovery.Device.1.LastUpdate)
+acs.GetParameterValues(Device.UPnP.Discovery.Device.1.Host)
+acs.GetParameterValues(Device.UPnP.Discovery.Service.1.)
+acs.GetParameterValues(Device.UPnP.Discovery.Service.1.LastUpdate)
+acs.GetParameterValues(Device.UPnP.Discovery.Service.1.Host)
+acs.GetParameterValues(Device.UPnP.Discovery.Service.1.ParentDevice)
+acs.execute()

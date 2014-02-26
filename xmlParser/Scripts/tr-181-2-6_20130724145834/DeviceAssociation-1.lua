@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.ManagementServer.ManageableDeviceNumberOfEntries)
+acs.GetParameterValues(Device.ManagementServer.ManageableDevice.1.)
+acs.GetParameterValues(Device.ManagementServer.ManageableDevice.1.ManufacturerOUI)
+acs.GetParameterValues(Device.ManagementServer.ManageableDevice.1.SerialNumber)
+acs.GetParameterValues(Device.ManagementServer.ManageableDevice.1.ProductClass)
+acs.GetParameterValues(Device.ManagementServer.ManageableDevice.1.Host)
+acs.execute()

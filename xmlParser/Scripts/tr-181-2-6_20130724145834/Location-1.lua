@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.DeviceInfo.)
+acs.GetParameterValues(Device.DeviceInfo.LocationNumberOfEntries)
+acs.GetParameterValues(Device.DeviceInfo.Location.1.Source)
+acs.GetParameterValues(Device.DeviceInfo.Location.1.AcquiredTime)
+acs.GetParameterValues(Device.DeviceInfo.Location.1.ExternalSource)
+acs.GetParameterValues(Device.DeviceInfo.Location.1.ExternalProtocol)
+acs.execute()

@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.DHCPv6.)
+acs.GetParameterValues(Device.DHCPv6.Server.)
+acs.GetParameterValues(Device.DHCPv6.Server.PoolNumberOfEntries)
+acs.GetParameterValues(Device.DHCPv6.Server.Pool.1.Status)
+acs.GetParameterValues(Device.DHCPv6.Server.Pool.1.IANAPrefixes)
+acs.GetParameterValues(Device.DHCPv6.Server.Pool.1.OptionNumberOfEntries)
+acs.execute()

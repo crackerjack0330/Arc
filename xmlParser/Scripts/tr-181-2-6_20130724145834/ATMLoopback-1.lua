@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.)
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.SuccessCount)
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.FailureCount)
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.AverageResponseTime)
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.MinimumResponseTime)
+acs.GetParameterValues(Device.ATM.Diagnostics.F5Loopback.MaximumResponseTime)
+acs.execute()

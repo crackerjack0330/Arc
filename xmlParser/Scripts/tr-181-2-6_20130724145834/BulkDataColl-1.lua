@@ -1,0 +1,8 @@
+acs.GetParameterValues(Device.BulkData.)
+acs.GetParameterValues(Device.BulkData.Status)
+acs.GetParameterValues(Device.BulkData.MinReportingInterval)
+acs.GetParameterValues(Device.BulkData.Protocols)
+acs.GetParameterValues(Device.BulkData.EncodingTypes)
+acs.GetParameterValues(Device.BulkData.ProfileNumberOfEntries)
+acs.GetParameterValues(Device.BulkData.Profile.1.ParameterNumberOfEntries)
+acs.execute()

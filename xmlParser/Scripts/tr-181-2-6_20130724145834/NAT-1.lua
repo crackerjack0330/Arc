@@ -1,0 +1,5 @@
+acs.GetParameterValues(Device.NAT.InterfaceSettingNumberOfEntries)
+acs.GetParameterValues(Device.NAT.PortMappingNumberOfEntries)
+acs.GetParameterValues(Device.NAT.InterfaceSetting.1.Status)
+acs.GetParameterValues(Device.NAT.PortMapping.1.LeaseDuration)
+acs.execute()

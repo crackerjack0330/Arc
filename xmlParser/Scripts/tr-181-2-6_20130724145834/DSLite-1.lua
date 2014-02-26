@@ -1,0 +1,8 @@
+acs.GetParameterValues(Device.DSLite.)
+acs.GetParameterValues(Device.DSLite.InterfaceSettingNumberOfEntries)
+acs.GetParameterValues(Device.DSLite.InterfaceSetting.1.)
+acs.GetParameterValues(Device.DSLite.InterfaceSetting.1.Status)
+acs.GetParameterValues(Device.DSLite.InterfaceSetting.1.Origin)
+acs.GetParameterValues(Device.DSLite.InterfaceSetting.1.TunnelInterface)
+acs.GetParameterValues(Device.DSLite.InterfaceSetting.1.TunneledInterface)
+acs.execute()

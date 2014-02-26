@@ -1,0 +1,7 @@
+acs.GetParameterValues(Device.DeviceInfo.)
+acs.GetParameterValues(Device.DeviceInfo.SupportedDataModelNumberOfEntries)
+acs.GetParameterValues(Device.DeviceInfo.SupportedDataModel.1.)
+acs.GetParameterValues(Device.DeviceInfo.SupportedDataModel.1.URL)
+acs.GetParameterValues(Device.DeviceInfo.SupportedDataModel.1.URN)
+acs.GetParameterValues(Device.DeviceInfo.SupportedDataModel.1.Features)
+acs.execute()
